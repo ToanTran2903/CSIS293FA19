@@ -31,6 +31,10 @@ public class FavoriteMethods
 		//here is Ben Berk's
 		System.out.println("Ben Berk: Calculating area of the circle...");
 		circleArea(4);
+		
+		//here is Henry Tran's:
+		System.out.println("Henry Tran: Calculating area of the square...");
+		squareArea(12);
 
 	}//end main method
 
