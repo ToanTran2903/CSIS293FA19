@@ -86,4 +86,11 @@ public class FavoriteMethods
 		}
 		System.out.println();
   	}
+	
+	//calculate the area of square
+	public static void squareArea(int edge)
+	{
+		double sArea = Math.pow(edge, 2);
+		System.out.printf("Calculate the area of square %.0f", sArea);
+	}
 }//end class
